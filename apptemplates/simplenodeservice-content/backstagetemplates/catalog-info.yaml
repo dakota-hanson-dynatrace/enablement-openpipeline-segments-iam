@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/dakota-hanson-dynatrace/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://super-space-couscous-4jw7qw95j9x9h7pqx-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://super-space-couscous-4jw7qw95j9x9h7pqx-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
